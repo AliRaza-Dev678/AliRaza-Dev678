@@ -16,14 +16,18 @@
   </a>
    <a href="https://www.facebook.com/aliraza.baloch.14418101">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    <div id="badges">
+  <a href="https://www.linkedin.com/in/ali-raza-597b013b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>    
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,python,machinelearning,deeplearning,ai,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,python,ML,DL,ai,xd&perline=5)](https://skillicons.dev)
 
-![Ali Raza's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliraza&show_icons=true&theme=dark)
+![Ali Raza's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliRaza-Dev678&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliraza&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliRaza-Dev678&theme=dark)
 
 
 <br>
