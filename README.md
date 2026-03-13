@@ -1,10 +1,10 @@
  <h1 align="center">Hi 👋, I'm Ali Raza </h1>
-
+- 🔭 I’m a Machine Learning,Deep Learning Engineer
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter 
+- 💬 Ask me anything about Machine Learning, Deep Learning and Flutter
 - 📫 How to reach me: ar2613811@gmail.com
-- ⚡ Fun fact: I'm comming to teen
+- ⚡ Fun fact: Motivated by the Fear of being Average
   
 ### Connect with me:
 <div id="badges">
