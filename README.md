@@ -4,7 +4,7 @@
 
 ### Full-Stack AI Engineer | Generative AI & Intelligent Platforms
 
-I build end-to-end AI products by combining **LLM workflows**, **production-ready backend systems**,  
+I build end-to-end AI products by combining **LLM workflows**, **production-ready backend systems**,
 **modern web interfaces**, and **data infrastructure**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-AliRaza--Dev678-181717?style=for-the-badge&logo=github)](https://github.com/AliRaza-Dev678)
@@ -15,11 +15,13 @@ I build end-to-end AI products by combining **LLM workflows**, **production-read
 
 ## About Me
 
-- 🎓 Software Engineering undergraduate at **The Islamia University of Bahawalpur** with a focus on AI/ML.
-- 🚀 Recently built a full-stack **AI-Powered Workspace Management Platform** using FastAPI, React, TypeScript, PostgreSQL, Redis, Celery, WebSockets, Groq, and Docker.
+- 🎓 BS Software Engineering (AI/ML focus) undergraduate at **The Islamia University of Bahawalpur** (2023–2027).
+- 🚀 Built a full-stack **AI-Powered Workspace Management Platform** using FastAPI, React, TypeScript, PostgreSQL, Redis, Celery, WebSockets, Groq, and Docker.
+- 💬 Deployed a production-style **AI Chat Assistant (ChatGPT Clone)** with LangGraph, streaming responses, and persistent conversations.
 - 🧠 Building **RAG systems**, **agentic AI applications**, intelligent APIs, and scalable backend services.
-- 🔍 Exploring reliable LLM orchestration, semantic retrieval, asynchronous systems, and AI product engineering.
-- 💬 Ask me about **Full-Stack AI, FastAPI, LangChain, LangGraph, RAG, PostgreSQL, Machine Learning, or Deep Learning**.
+- 🔍 Focused on reliable LLM orchestration, semantic retrieval, asynchronous systems, and turning AI prototypes into real software products.
+- 🏢 Completed Machine Learning Engineer internships at **Developers Hub Corporation** and **CodeAlpha**.
+- 🎖️ Completed the **One Million Prompters** initiative by the Dubai Future Foundation and Dubai Centre for Artificial Intelligence.
 - 🤝 Open to AI engineering, backend engineering, full-stack development, internships, and collaborative projects.
 - 📍 Based in **Multan, Pakistan**.
 
@@ -91,6 +93,18 @@ A full-stack collaboration platform with organizations, workspaces, projects, ta
 </td>
 <td width="50%" valign="top">
 
+### AI Chat Assistant (ChatGPT Clone)
+
+A production-style ChatGPT-style assistant with a FastAPI + LangGraph backend serving Groq-hosted gpt-oss-120b, token-by-token streaming, persistent conversations, and dark/light/system themes.
+
+**Live Demo:** [ali-raza-assistant-web.vercel.app](https://ali-raza-assistant-web.vercel.app/)
+**Stack:** React, TypeScript, FastAPI, LangGraph, PostgreSQL, Tortoise ORM, Docker
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### [IUB University RAG Chatbot](https://github.com/AliRaza-Dev678/IUB-RAG-CHATBOT)
 
 A grounded university knowledge assistant that ingests official PDFs, creates embeddings, retrieves context with MMR, and returns answers with source citations.
@@ -98,8 +112,6 @@ A grounded university knowledge assistant that ingests official PDFs, creates em
 **Stack:** LangChain, PGVector, PostgreSQL, Hugging Face, Groq, Streamlit
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [YouTube RAG Chatbot](https://github.com/AliRaza-Dev678/Youtube_RAG_APP)
@@ -109,6 +121,8 @@ An end-to-end video Q&A system that extracts captions, embeds transcript chunks,
 **Stack:** LangChain, yt-dlp, PGVector, Groq, Streamlit
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Multi-Tool Agentic AI Application](https://github.com/AliRaza-Dev678/Multi_Tools_Agent_App)
@@ -118,8 +132,6 @@ A LangGraph ReAct agent with dynamic tool selection for web search, weather, cur
 **Stack:** LangGraph, ReAct, Groq, Python, Streamlit
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Asynchronous FastAPI Authentication API](https://github.com/AliRaza-Dev678/FastApi_Tortoise_ORM_Aerich_Migration_Authentications)
@@ -129,17 +141,41 @@ A modular async REST API with JWT/OAuth2 authentication, bcrypt hashing, reposit
 **Stack:** FastAPI, Tortoise ORM, Aerich, JWT, OAuth2
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Movie Review Sentiment Analysis](https://github.com/AliRaza-Dev678/Movie_Review_Sentiment_Analysis)
 
-An NLP pipeline for classifying IMDB reviews, including text preprocessing, TF-IDF features, model evaluation, serialization, and a Streamlit interface.
+An NLP pipeline for classifying IMDB reviews, including text preprocessing, TF-IDF features, model evaluation, serialization, and a Streamlit interface. Built during my ML Engineer internship at Developers Hub Corporation.
 
 **Stack:** Python, Scikit-learn, TF-IDF, NLP, Streamlit
 
 </td>
+<td width="50%" valign="top">
+
+### Additional ML & Computer Vision Portfolio
+
+Projects covering fake-news detection, customer segmentation, credit-card fraud detection, disease prediction, price regression, CIFAR-10, Fashion-MNIST, face-mask detection, and ResNet50 transfer learning.
+
+**Stack:** Scikit-learn, TensorFlow, PyTorch, CNNs, LSTMs
+
+</td>
 </tr>
 </table>
+
+## Experience
+
+**Machine Learning Engineer Intern** — Developers Hub Corporation (Remote), Islamabad, Pakistan — 2025
+Built an end-to-end IMDB sentiment analysis system and worked on NLP, classification, and clustering pipelines using Scikit-learn, Pandas, and NumPy.
+
+**Machine Learning Engineer Intern** — CodeAlpha (Remote), India — 2025
+Delivered heart-disease prediction, agricultural image recognition, and speech-emotion recognition projects using classical ML and deep learning workflows.
+
+## Education
+
+**BS Software Engineering (AI/ML Focus)** — The Islamia University of Bahawalpur — 2023–2027
+**FSc Pre-Engineering** — KIPS College — 2021–2023
 
 ## GitHub Analytics
 
