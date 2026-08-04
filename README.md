@@ -132,7 +132,7 @@ Completed projects in heart-disease prediction, agricultural image recognition, 
 
 ## Professional Development & Continuous Learning
 
-- **Currently Learning:** GHL (GoHighLevel) for marketing automation and CRM integration.
+- **Completed:** GHL (GoHighLevel) for marketing automation and CRM integration.
 - **Generative AI & LLM Engineering:** CampusX: LangChain, RAG pipelines, ReAct agent development.
 - **Machine Learning & Deep Learning:** Coursework through Hope to Skills and Sidhardan.
 
